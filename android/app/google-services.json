@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1069093205103",
+    "project_id": "mathilde-613af",
+    "storage_bucket": "mathilde-613af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069093205103:android:fcc46f24b714ecc497c99a",
+        "android_client_info": {
+          "package_name": "com.example.mathilde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069093205103-us2224g2r87lcra0v009pj3hm6hufnl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mathilde",
+            "certificate_hash": "889f0b929804939f8364e0bd265f0023cdab548a"
+          }
+        },
+        {
+          "client_id": "1069093205103-llkru7f0t8cope0pf9tl1alkc689058v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmgNVCoU5DI-aV1w_Ubq9LwPhCUfqdL80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069093205103-llkru7f0t8cope0pf9tl1alkc689058v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1069093205103-dcss504rfn3o7i21745k84osj6v83gfm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mathilde"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
