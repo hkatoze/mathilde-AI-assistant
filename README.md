@@ -19,4 +19,4 @@ Le projet Mathilde suit un code propre et structuré. Il utilise le modèle d'ar
 
 🎁 **APK**  
 
-Pour votre commodité, vous pouvez télécharger l'APK Mathilde [ici](https://1drv.ms/u/s!AuLsqIDZd3ZliQMA-iR9oL6nN4Ng?e=SzASsx) et découvrir la puissance de votre assistante IA personnelle sur votre appareil mobile.
+Pour votre commodité, vous pouvez télécharger l'APK Mathilde [ici](https://1drv.ms/u/s!AuLsqIDZd3ZlkwURHHb6FCbBQn5_?e=V5movT) et découvrir la puissance de votre assistante IA personnelle sur votre appareil mobile.
